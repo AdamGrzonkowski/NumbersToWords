@@ -1,2 +1,2 @@
 # NumbersToWords
-Converts amount of money as number into words.
+Converts amount of money as numbers into words.
